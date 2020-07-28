@@ -1,0 +1,37 @@
+---
+- name: Western Province
+  country_id: '144'
+  id: 'LK1'
+  abbr: WP
+- name: Central Province
+  country_id: '144'
+  id: 'LK2'
+  abbr: CP
+- name: Southern Province
+  country_id: '144'
+  id: 'LK3'
+  abbr: SP
+- name: Northern Province
+  country_id: '144'
+  id: 'LK4'
+  abbr: NP
+- name: Eastern Province
+  country_id: '144'
+  id: 'LK5'
+  abbr: EP
+- name: North Western Province
+  country_id: '144'
+  id: 'LK6'
+  abbr: NW
+- name: North Central Province
+  country_id: '144'
+  id: 'LK7'
+  abbr: NC
+- name: Uva Province
+  country_id: '144'
+  id: 'LK8'
+  abbr: UP
+- name: Sabaragamuwa Province
+  country_id: '144'
+  id: 'LK9'
+  abbr: SG
